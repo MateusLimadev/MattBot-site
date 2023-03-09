@@ -208,6 +208,11 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
        
     }
 
+    html{
+      --background: white;
+      --text: black;
+    }
+    
     .card {
         width: 190px;
         height: 254px;
@@ -317,3 +322,5 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     margin: -145px auto 0;
     
 }
+
+
